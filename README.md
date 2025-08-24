@@ -51,7 +51,6 @@ The following views are implemented to provide **role-based and filtered access*
 | `VW_DRIVER_WEEKLY_EARNINGS` | Shows weekly trip counts and earnings for each driver                     |
 | `VW_DRIVERS_WITHOUT_LICENSE`| Displays drivers who registered but did not provide a license number     |
 
-
 ---
 
 ## Steps to Run
